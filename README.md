@@ -1,2 +1,2 @@
 # ComputoMovil
-Repositorio para curso de cómputo movil
+Repositorio para curso de cómputo móvil
